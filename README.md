@@ -1,6 +1,7 @@
 # Overview
 
 CosmicPods is a tiny shoot-'em-up game for [Arduboy](https://arduboy.com/).
+
 As cosmic squid, shoot octopuses up!
 
 # Video
@@ -25,5 +26,7 @@ Video is available on YouTube.
 # LICENSE
 
 Copyright (C) 2017, cubic9com All rights reserved.
+
 This code is licensed under the BSD 3-Clause license.
+
 See file LICENSE for more information.
