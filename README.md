@@ -8,7 +8,7 @@ As cosmic squid, shoot octopuses up!
 
 Video is available on YouTube.
 
-[![Videos on YouTube.](http://img.youtube.com/vi/X622v6PG6Ww/0.jpg)](http://www.youtube.com/watch?v=X622v6PG6Ww)
+[![Videos on YouTube.](http://img.youtube.com/vi/m5ltvk4R29c/0.jpg)](http://www.youtube.com/watch?v=m5ltvk4R29c)
 
 # Installing
 
